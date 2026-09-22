@@ -10,7 +10,7 @@
 👉 **[View Accordion Pure jQuery Now!](https://darshittank.github.io/Accordion-pure-jQuery/)** 👈
 
 ## 🗺️ Roadmap.sh Solution
-👉 **[View My Accordion Pure jQuery Solution](https://roadmap.sh/projects/simple-tabs/solutions?u=6a54aaccace5f057736e8164)** 👈
+👉 **[View My Accordion Pure jQuery Solution](https://roadmap.sh/projects/accordion/solutions?u=6a54aaccace5f057736e8164)** 👈
 
 
 ## 📌 Project Page
@@ -18,12 +18,15 @@
 
 ## 📖 **About Accordion Pure jQuery**
 
-A modern, responsive tabs component built with GSAP (GreenSock Animation Platform) featuring smooth transitions, animated content, and clean, reusable code.
+A modern, responsive accordion component built with HTML, CSS, and pure jQuery featuring smooth expand/collapse transitions, single-open behavior, and clean, reusable code.
 
 ### 🎯 **Key Features**
-- 🧩 Smooth GSAP-powered tab transitions
-- 🧩 Responsive design
+
+- 🧩 Smooth jQuery-powered expand/collapse animations
+- 🧩 Single-open behavior (only one panel at a time)
+- 🧩 Responsive design for all screen sizes
 - 🧩 Lightweight and fast
+- 🧩 Accessible with ARIA attributes
 - 🧩 Easy to customize
 - 🧩 Clean HTML, CSS, and JavaScript
 - 🧩 Beginner-friendly code structure
