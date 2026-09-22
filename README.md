@@ -70,10 +70,10 @@ Made with ❤️ and lots of GSAP-Tabs!
 # Accordion
 
 ## Live Demo
-[https://darshittank.github.io/GSAP-Tabs/](https://darshittank.github.io/Accordion-pure-jQuery/)
+https://darshittank.github.io/Accordion-pure-jQuery/
 
 ## Repository
-[https://github.com/Darshittank/GSAP-Tabs](https://darshittank.github.io/Accordion-pure-jQuery/)
+https://darshittank.github.io/Accordion-pure-jQuery/
 
 ## Roadmap.sh Project
-[https://roadmap.sh/projects/simple-tabs](https://darshittank.github.io/Accordion-pure-jQuery/)
+https://darshittank.github.io/Accordion-pure-jQuery/
