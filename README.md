@@ -33,7 +33,7 @@ A modern, responsive accordion component built with HTML, CSS, and pure jQuery f
 
 ## 📸 Preview
 
-![screenshot-tooltip](assets/screenshot-Accordion.png)
+![screenshot-Accordion](assets/screenshot-Accordion.png)
 
 📦 Use Cases
 - Websites & blogs
@@ -50,7 +50,7 @@ A modern, responsive accordion component built with HTML, CSS, and pure jQuery f
 🤝 Contributing
 - Contributions are welcome! Feel free to submit new patterns, improvements, or bug fixes.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 🙌 Author
 
@@ -67,7 +67,7 @@ Made with ❤️ and lots of GSAP-Tabs!
 ### Local Development
 
 ```bash
-# Tabs
+# Accordion
 
 ## Live Demo
 [https://darshittank.github.io/GSAP-Tabs/](https://darshittank.github.io/Accordion-pure-jQuery/)
